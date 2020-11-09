@@ -1,0 +1,5 @@
+chromedriver
+playground/
+*.ipy
+Icon*
+Pipfile*
